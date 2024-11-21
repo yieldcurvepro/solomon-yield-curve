@@ -1,6 +1,4 @@
-# solomon-yield-curve
-
-## Salomon Brothers Series: Understanding the Yield Curve
+# Salomon Brothers Series: Understanding the Yield Curve
 
 The Salomon Brothers' "Understanding the Yield Curve" series (1995) remains influential
 in fixed-income markets for introducing sophisticated yield curve analysis concepts to
